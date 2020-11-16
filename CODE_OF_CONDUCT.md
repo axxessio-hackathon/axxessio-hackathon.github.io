@@ -30,7 +30,7 @@ Harassment may include but not limited to the following:
 
 ## Reporting and Enforcement
 
-- If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting an [incident report](mailto:github@axxesio.com)
+- If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting an [incident report by mail](mailto:github@axxesio.com) or [form](https://forms.gle/6y9MAjVYQjkaDRer9) 
 - If necessary, conference staff are empowered to take appropriate actions that may include, but are not limited to, warnings, expulsion from the conference without refund, and referrals to venue security or local law enforcement.
 
 Portions derived from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct), [The Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/), [geekfeminism.org](https://geekfeminism.org/about/code-of-conduct/) and [Drupal Events Code of Conduct](https://events.drupal.org/dublin2016/code-conduct)
